@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>Log4jJSONLayout</groupId>
+  <artifactId>Log4jJSONLayout</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140121225513</lastUpdated>
+  </versioning>
+</metadata>
